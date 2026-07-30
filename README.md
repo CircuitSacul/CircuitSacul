@@ -17,7 +17,7 @@ Contact me (in order of preference):
 - computer: Framework Desktop (128gb variant)
 - OS: Fedora, with KDE Plasma
 - keyboard layout: colemak-dh (not worth it tbh)
-- editor: helix, lazygit, yazi; tmux + custom keybinds/scripts to swap between windows, to be replaced by helix plugins when pigs-- when helix merged the plugin PR
+- editor: helix, lazygit, yazi; tmux + custom keybinds/scripts to swap between windows, to be replaced by helix plugins when pigs-- when helix merges the plugin PR
 - [dotfiles](https://forgejo.circuitsacul.dev/circuitsacul/dotfiles)
 
 ## Projects
