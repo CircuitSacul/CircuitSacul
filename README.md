@@ -1,55 +1,44 @@
-20yo Pythonista & Rustacean.
+21; I mostly code in python & rust. Slowly migrating to [forgejo](https://forgejo.circuitsacul.dev) and [codeberg](https://codeberg.org/circuitsacul).
 
- - I'm trying out forgejo - https://forgejo.circuitsacul.dev
- - Signal (@circuitsacul.01)
+Contact me (in order of preference):
  - [SimpleX](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FVuK9guUNzaUmlUYvBWu0Pr4zbo0ULYV0%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAZiDSeRNjCQaDpAN-2JdfmPVUYb6s6KPyQbVpfHWIqWc%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion)
  - Matrix (@circuitsacul:matrix.org, [room](https://matrix.to/#/#circuitsacul-room:matrix.org))
+ - Signal (@circuitsacul.01)
  - Discord (@circuitsacul, https://discord.gg/dGAzZDaTS9)
 
-I generally ignore friend requests on Discord, so if you don't already share a sever with me, join mine.
+## Tools/Languages
+ - python: first language I learned, and my job; have been using it for nearly 10 years
+ - rust: personal favorite language, making it my job is a WIP
+ - typescript: at least it's not javascript
+ - SQL (mysql, postgresql)
+ - docker, git
 
-## Tools
- - Python: The first language I learned. I've been coding in Python for nearly 7 years.
- - Rust: My favorite language to use, and what I work with the most.
- - Typescript: It's better than javascript, at least. I use it to build websites and mobile apps (with react native).
- - PostgreSQL: My go-to any time I need a database. I even wrote [an orm](https://github.com/circuitsacul/apgorm) for it.
- - Docker: I know the basics of Docker, and I'm using it in V4 of Starboard. It's nice to not have to clone & build the source code to run my apps - I just have to pull the image.
- - Git: I'm pretty good at using Git via GUIs (GitHub, GitHub Desktop, VSC, etc.), but I can use very basic features through the command line as well.
+### Setup
+- computer: Framework Desktop (128gb variant)
+- OS: Fedora, with KDE Plasma
+- keyboard layout: colemak-dh (not worth it tbh)
+- editor: helix, lazygit, yazi; tmux + custom keybinds/scripts to swap between windows, to be replaced by helix plugins when pigs-- when helix merged the plugin PR
+- [dotfiles](https://forgejo.circuitsacul.dev/circuitsacul/dotfiles)
 
-## Active Projects
+## Projects
+Most of these are old projects
+
 ### Discord Bots
- - [Starboard](https://github.com/circuitsacul/starboard-4): Highly advanced starboard bot for Discord.
- - [io](https://github.com/circuitsacul/io): A code running bot for discord.
- - [Wires](https://github.com/circuitsacul/wires): A bot with random features I want.
- - [Minigames](https://github.com/circuitsacul/minigames): Fun minigames.
+ - [starboard](https://github.com/circuitsacul/starboard-4)
+ - [io](https://github.com/circuitsacul/io): code-execution bot
+ - [wires](https://github.com/circuitsacul/wires): bot with random stuff for personal servers
+ - [minigames](https://github.com/circuitsacul/minigames): minigames for personal servers
 
 ### Libraries
- - [apgorm](https://github.com/circuitsacul/apgorm): An async ORM for PostgreSQL, wrapped around asyncpg.
- - [DetaORM](https://github.com/circuitsacul/detaorm): An async ORM for DetaBase.
- - [hikari-clusters](https://github.com/circuitsacul/hikari-clusters): Clustering tool for Hikari.
- - [floodgate](https://github.com/circuitsacul/floodgate): Fast cooldown implementation. See [here](https://github.com/lunarmagpie/floodgate) for python bindings.
- - [regex-rs](https://github.com/circuitsacul/regex-rs): Python bindings for the rust regex crate.
- - [socketapp](https://github.com/circuitsacul/socketapp): A simple library for creating websocket-based apps.
- - [mockeval](https://github.com/circuitsacul/mockeval): Cursed but kinda cool lambdas.
- - [nullable](https://github.com/circuitsacul/nullable): Typed Null singleton for Python
-
-### Misc
- - [IvyCraft](https://github.com/circuitsacul/ivycraft): Code + Discord bot for handling the IvyTech minecraft server.
+ - [apgorm](https://github.com/circuitsacul/apgorm): async, typed ORM for postgresql (orm bad, try sqlc for type-safety)
+ - [hikari-clusters](https://github.com/circuitsacul/hikari-clusters): simple clustering tool for hikary with builtin ipc
+ - [floodgate](https://github.com/circuitsacul/floodgate): fast cooldown impl; see [lunarmagpie/floodgate](https://github.com/lunarmagpie/floodgate) for python bindings
+ - [regex-rs](https://github.com/circuitsacul/regex-rs): python bindings for some parts of rust's `regex`
+ - [socketapp](https://github.com/circuitsacul/socketapp): simple/fun/experimental library for making multiplayer websocket apps
 
 ### Maintainer For
- - [hikari-crescent](https://github.com/hikari-crescent/hikari-crescent): Command handler for Hikari.
- - [mCodingBot](https://github.com/mcb-dev/mCodingBot): The Discord bot for the mCoding Discord server.
-
-## Currently working on
- - A dashboard for starboard (https://github.com/CircuitSacul/Starboard-4/pull/344)
- - A conference-management app (https://github.com/covfamikoi/rpevents)
- - A scriptable bot
-
-## Things I want to do
- - discord http/gateway proxy with cache
- - python bindings for twilight, hikari extension that utilizes these bindings
- - learn bevy and make a game
- - learn go
+ - [hikari-crescent](https://github.com/hikari-crescent/hikari-crescent): slask command framework for hikari
+ - [mCodingBot](https://github.com/mcb-dev/mCodingBot): bot for the mCoding discord
 
 ## Archived
  - Old Starboard versions
