@@ -18,7 +18,7 @@ Contact me (in order of preference):
 - OS: Fedora, with KDE Plasma
 - keyboard layout: colemak-dh (not worth it tbh)
 - editor: helix, lazygit, yazi; tmux + custom keybinds/scripts to swap between windows, to be replaced by helix plugins when pigs-- when helix merges the plugin PR
-- [dotfiles](https://forgejo.circuitsacul.dev/circuitsacul/dotfiles)
+- [dotfiles](https://radicle.network/nodes/rosa.radicle.network/rad%3Az3Rg9mSv8Lcxpxfg3Cz4MY5QMaExc)
 
 ## Projects
 Most of these are old projects
